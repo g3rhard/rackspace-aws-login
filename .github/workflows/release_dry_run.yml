@@ -10,5 +10,5 @@ on:
 jobs:
   default:
     # yamllint disable-line rule:line-length
-    uses: Hapag-Lloyd/Repository-Templates/.github/workflows/default_release_dry_run_callable.yml@aa06a3d8a580efc719d66bafdcb5d2ca6613cdea
+    uses: Hapag-Lloyd/Repository-Templates/.github/workflows/default_release_dry_run_callable.yml@1ae9a1d69c582281b4312e7ca65632adb32ddee8
     secrets: inherit
